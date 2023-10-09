@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **devgauravjatt/devgauravjatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+<a href="https://app.daily.dev/devgauravjatt"><img src="https://api.daily.dev/devcards/c6b7221056b4471082a46b32500ce8cd.png?r=jns" width="400" alt="Dev Gaurav Jatt's Dev Card"/></a>

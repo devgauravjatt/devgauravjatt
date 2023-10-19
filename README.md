@@ -1,4 +1,4 @@
-![Gaurav Jatt](https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif)
+![Gaurav Jatt]([https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif](https://i.ibb.co/0qY1Jsq/F7i6-ID4-WEAM0-a-D.jpg))
 
 
 <h1 align="center">Hi 👋, I'm Dev Gaurav Jatt</h1>
@@ -13,3 +13,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=donut" width="900" height="300">
+![Gaurav Jatt](https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif)

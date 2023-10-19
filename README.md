@@ -1,19 +1,15 @@
-### Hi there 👋
-
-**devgauravjatt/devgauravjatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Gaurav Jatt](https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif)
 
 
+<h1 align="center">Hi 👋, I'm Dev Gaurav Jatt</h1>
+<h3 align="center">I'm a backend high and frontend low developer 😂.</h3>
+
+- 🌱 I’m currently using **Node js with JavaScript **
 
 
-<a href="https://app.daily.dev/devgauravjatt"><img src="https://api.daily.dev/devcards/c6b7221056b4471082a46b32500ce8cd.png?r=jns" width="400" alt="Dev Gaurav Jatt's Dev Card"/></a>
+- 💬 Ask me about ** NodeJS, ReactJS, MongoDB, And More with possible with JavaScript  **
+
+- ⚡ Fun fact **I am funny**
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=donut" width="900" height="300">

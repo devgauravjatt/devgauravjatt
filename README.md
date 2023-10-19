@@ -1,5 +1,5 @@
-![Gaurav Jatt]([https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif](https://i.ibb.co/0qY1Jsq/F7i6-ID4-WEAM0-a-D.jpg))
 
+<img src="https://i.ibb.co/0qY1Jsq/F7i6-ID4-WEAM0-a-D.jpg" width="900" height="400">
 
 <h1 align="center">Hi 👋, I'm Dev Gaurav Jatt</h1>
 <h3 align="center">I'm a backend high and frontend low developer 😂.</h3>

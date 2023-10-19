@@ -13,4 +13,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=donut" width="900" height="300">
-![Gaurav Jatt](https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif)
+<img src="https://i.pinimg.com/1200x/09/76/15/09761501f31eaf1c9995925a4dbb7dbf.jpg">

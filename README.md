@@ -24,7 +24,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 [![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=7412860485&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgauravjatt@gmail.com)
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack - All possible to javascript 👈
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6)
@@ -32,7 +32,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Svelte](https://img.shields.io/badge/Svelte-%23E34F26.svg?style=for-the-badge&logo=Svelte&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2335495e.svg?style=for-the-badge&logo=bootstrap&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/panda-css-B73BFE?style=for-the-badge&logo=panda-css&logoColor=FFD62E)

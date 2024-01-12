@@ -14,10 +14,9 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 ### 🚀 More about me
 
-- 🌱 I’m currently learning **Fullstack Development**
-- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
-- 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
+- 🌱 I’m currently learning **Fullstack Development And React Native Apps**
+- 📫 How to reach me: **devgauravjatt@gmail.com**
+- ⚡ Fun fact **I am deeply in love with Javascript ❤️**
 
 ---
 ### 🔗 Connect with me
@@ -64,8 +63,8 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=devgauravjatt&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devgauravjatt&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
 

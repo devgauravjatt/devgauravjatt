@@ -11,5 +11,5 @@
 - ⚡ Fun fact **I am funny**
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=donut" width="900" height="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs//?username=devgauravjatt&layout=donut" width="900" height="300">
 

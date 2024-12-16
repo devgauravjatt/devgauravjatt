@@ -2,14 +2,14 @@
 
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+%F0%9F%91%8B%2C+I'm+Dev+Gaurav+Jatt" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+   😂 No need for another introduction javascript is All Rounder.
+   --------------------------------------
+  Web, javascript, react, solid, svelte, bun, deno, node, developer tools
+  and framework like nextjs, astrojs, sveltekit and much more. 
+  And App with flutter to cross platforms.
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -22,9 +22,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=7412860485&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgauravjatt@gmail.com)
 </div>
-
-<h1 align="center">Hi 👋, I'm Dev Gaurav Jatt</h1>
-<h3 align="center">No need for another introduction javascript is All Rounder 😂.</h3>
 
 ### 📊 Github Stats
 

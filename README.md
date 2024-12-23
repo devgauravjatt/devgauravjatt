@@ -23,13 +23,3 @@
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgauravjatt@gmail.com)
 </div>
 
-### 📊 Github Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=devgauravjatt&show_icons=true&locale=en&theme=vue&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devgauravjatt&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="karanchandekar" /></td
-  </tr>
-</table>
-
-#

@@ -23,3 +23,8 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:devgauravjatt@gmail.com)
 </div>
 
+<div align="center">
+    <h2 align="center">👩‍💻 Github Stats</h2>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=compact" width="28%" align="right" />
+   <img src="https://github-readme-stats.vercel.app/api?username=devgauravjatt&include_all_commits=true&show_icons=true&hide=prs" width="40%" align="left" />
+</div>

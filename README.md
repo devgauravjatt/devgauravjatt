@@ -25,6 +25,6 @@
 
 <div align="center">
     <h2 align="center">👩‍💻 Github Stats</h2>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=compact" width="48%" align="right" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=compact" width="40%" align="right" />
    <img src="https://github-readme-stats.vercel.app/api?username=devgauravjatt&include_all_commits=true&show_icons=true&hide=prs" width="40%" align="left" />
 </div>

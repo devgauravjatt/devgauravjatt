@@ -3,7 +3,6 @@
 🚀 JavaScript-first developer who builds fast, scalable, and production-ready apps.
 I don’t just code — I read docs, understand systems deeply, and then ship.
 
----
 
 ## ⚡ Tech Stack
 

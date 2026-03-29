@@ -1,30 +1,95 @@
+# 👋 Hey, I'm Gaurav
 
+🚀 JavaScript-first developer who builds fast, scalable, and production-ready apps.
+I don’t just code — I read docs, understand systems deeply, and then ship.
 
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+%F0%9F%91%8B%2C+I'm+Dev+Gaurav+Jatt" width="70%" />
-<br><br>
-<pre>
-   😂 No need for another introduction javascript is All Rounder.
-   --------------------------------------
-  Web, javascript, react, solid, svelte, bun, deno, node, developer tools
-  and framework like nextjs, astrojs, sveltekit and much more. 
-  And App with flutter to cross platforms.
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgauravjatt/)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/DevGauravJatt)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=fff)](https://bsky.app/profile/devgauravjatt.bsky.social)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravjatt4x)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=7412860485&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:devgauravjatt@gmail.com)
-</div>
+---
 
-<div align="center">
-    <h2 align="center">👩‍💻 Github Stats</h2>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgauravjatt&layout=compact" width="40%" align="right" />
-   <img src="https://github-readme-stats.vercel.app/api?username=devgauravjatt&include_all_commits=true&show_icons=true&hide=prs" width="54%" align="left" />
-</div>
+## ⚡ Tech Stack
+
+### 🧠 Core
+
+* **JavaScript / TypeScript**
+* Node.js ecosystem
+
+### 🌐 Backend
+
+* Hono
+* Express.js
+* Custom API architectures
+* Authentication systems (BetterAuth + Custom Auth)
+
+### 🎨 Frontend
+
+* React
+* Vite
+* Next.js
+* Astro
+
+### 🗄️ Databases
+
+* PostgreSQL
+* SQLite
+* MongoDB
+
+### 🧩 Other Skills
+
+* REST APIs & validation systems
+* Schema design & performance optimization
+* Full-stack architecture
+* Writing reusable libraries & tools
+
+---
+
+## 🔐 Auth & Backend Focus
+
+* Build **custom authentication systems** from scratch
+* Work with **BetterAuth** and extend it
+* Focus on **secure + scalable backend design**
+
+---
+
+## 📦 What I Build
+
+* Full-stack web apps
+* Internal tools & APIs
+* Developer tools (like validators, plugins, etc.)
+* High-performance backend systems
+
+---
+
+## 📖 My Approach
+
+> Read docs → Understand deeply → Build clean → Optimize → Ship 🚀
+
+* I prefer **official docs over tutorials**
+* I focus on **real-world production code**
+* I optimize for **performance + maintainability**
+
+---
+
+## 🛠️ Current Focus
+
+* Advanced backend architecture
+* Vite ecosystem & plugins
+* Type-safe APIs
+* Scaling systems & limits (rate limiting, usage tracking, etc.)
+
+---
+
+## 📈 Goals
+
+* Build powerful developer tools
+* Master system design in JS ecosystem
+* Create production-grade open source projects
+
+---
+
+## 🤝 Let's Connect
+
+* Always open to collaboration on **JS ecosystem projects**
+* Especially interested in **tools, infra, and backend systems**
+
+---
+
+⭐ *"Build like a developer, think like an architect."*

@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gaurav
+# 👋 Hey, I'm Gaurav Jatt
 
 🚀 JavaScript-first developer who builds fast, scalable, and production-ready apps.
 I don’t just code — I read docs, understand systems deeply, and then ship.
@@ -9,79 +9,38 @@ I don’t just code — I read docs, understand systems deeply, and then ship.
 
 ### 🧠 Core
 
-* **JavaScript / TypeScript**
-* Node.js ecosystem
+**JavaScript** and **TypeScript** form the core of my development work, supported by deep experience in the **Node.js** ecosystem and modern runtimes like **Bun**, allowing me to build fast, efficient, and scalable applications.
 
 ### 🌐 Backend
 
-* Hono
-* Express.js
-* Custom API architectures
-* Authentication systems (BetterAuth + Custom Auth)
+I build backend systems using **Hono** and **Express.js**, focusing on clean and scalable **API** architectures. I also design and implement secure authentication systems using **BetterAuth** as well as fully **custom auth** solutions tailored to specific needs. I implement advanced backend features like **rate limiting**, **request validation**, **usage tracking**, and **performance optimization** to ensure systems are reliable, secure, and production-ready.
 
 ### 🎨 Frontend
 
-* React
-* Vite
-* Next.js
-* Astro
+**React, Vite, Next.js, Astro,** and frontend libraries like **shadcn/ui,** **Tailwind CSS**   and other modern **UI libraries** are the core frontend technologies I use to build fast, modern, and scalable user interfaces.
 
 ### 🗄️ Databases
 
-* PostgreSQL
-* SQLite
-* MongoDB
+**PostgreSQL, SQLite, MongoDB, and SQL** are the databases and query languages I work with to design efficient, scalable, and reliable data systems.
 
 ### 🧩 Other Skills
 
-* REST APIs & validation systems
-* Schema design & performance optimization
-* Full-stack architecture
-* Writing reusable libraries & tools
+* Always exploring new tools and stacks in the JavaScript & TypeScript ecosystem.
+* Believe in learning through official docs and hands-on building.
+* Passionate about discovering new technologies and turning ideas into real projects.
 
 ---
 
-## 🔐 Auth & Backend Focus
+## 📦 What I Build & My Approach
 
-* Build **custom authentication systems** from scratch
-* Work with **BetterAuth** and extend it
-* Focus on **secure + scalable backend design**
-
----
-
-## 📦 What I Build
-
-* Full-stack web apps
-* Internal tools & APIs
-* Developer tools (like validators, plugins, etc.)
-* High-performance backend systems
-
----
-
-## 📖 My Approach
+* **Full-stack web apps** that are scalable, efficient, and built for real-world use.
+* **Internal tools & APIs** designed to streamline workflows and improve productivity.
+* **Developer tools** such as validators, plugins, and utilities that enhance development experience.
+* **High-performance backend systems** focused on speed, reliability, and scalability.
 
 > Read docs → Understand deeply → Build clean → Optimize → Ship 🚀
 
-* I prefer **official docs over tutorials**
-* I focus on **real-world production code**
-* I optimize for **performance + maintainability**
-
----
-
-## 🛠️ Current Focus
-
-* Advanced backend architecture
-* Vite ecosystem & plugins
-* Type-safe APIs
-* Scaling systems & limits (rate limiting, usage tracking, etc.)
-
----
-
-## 📈 Goals
-
-* Build powerful developer tools
-* Master system design in JS ecosystem
-* Create production-grade open source projects
+I prefer official **documentation** over tutorials, as it provides deeper understanding and accurate insights. I focus on building real-world, **production-ready** code that solves practical problems. Additionally, I prioritize **optimizing** applications for both performance and **maintainability** to ensure long-term scalability and efficiency.
 
 ---
 

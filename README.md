@@ -12,7 +12,7 @@ I don’t just code — I read docs, understand systems deeply, and then ship.
 
 ### 🌐 Backend
 
-I build backend systems using **Hono** and **Express.js**, focusing on clean and scalable **API** architectures. I also design and implement secure authentication systems using **BetterAuth** as well as fully **custom auth** solutions tailored to specific needs. I implement advanced backend features like **rate limiting**, **request validation**, **usage tracking**, and **performance optimization** to ensure systems are reliable, secure, and production-ready.
+I build backend systems using **Hono** and **Express.js**,**GraphQL** focusing on clean and scalable **API** architectures. I also design and implement secure authentication systems using **BetterAuth** as well as fully **custom auth** solutions tailored to specific needs. I implement advanced backend features like **rate limiting**, **request validation**, **usage tracking**, and **performance optimization** to ensure systems are reliable, secure, and production-ready.
 
 ### 🎨 Frontend
 

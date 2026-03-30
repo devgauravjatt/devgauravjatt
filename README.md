@@ -4,7 +4,7 @@
 
 ## ⚡ Tech Stack
 
-I work primarily with  **TypeScript (ESNext)**   and  **JavaScript**   in the **Node.js** ecosystem, using modern runtimes like **Bun**. I build scalable APIs, real-time systems, and fast frontends with modern UI libraries with a strong focus on performance, developer experience, and production-ready architecture. I also work with cloud, edge, and storage solutions to design complete end-to-end systems.
+I work primarily with **TypeScript (ESNext)** and **JavaScript** in the **Node.js** ecosystem, using modern runtimes like **Bun**. I build scalable APIs, real-time systems, and fast frontends with modern UI libraries, with a strong focus on performance, developer experience, and production-ready architecture. I also work with cloud, edge, and storage solutions to design complete end-to-end systems.
 
 ## 📦 What I Build
 
@@ -12,24 +12,20 @@ I build full-stack web applications, developer tools, internal tools, and high-p
 
 ## 🐱‍💻 Stack Overview
 
-🖥️ Frontend / Full Stack - React, Next.js, Astro, Vite
-⚙️ Backend - Hono, Express, GraphQL, WebSockets
-🎨 UI & Styling - Tailwind CSS, shadcn/ui, Radix UI, MUI, component libraries
-🗄️ Database - PostgreSQL, MongoDB, SQLite, Cloudflare D1
-☁️ Storage - Azure Blob, AWS S3, Google Cloud, Cloudinary, ImageKit, Cloudflare KV
-🚀 Development - Docker, Cloudflare, Vercel, AWS
-🛠️ Tooling & DevOps - Git, GitHub, ESLint, Biome, Prettier, Vite, VoidZero tooling
-
- 
+🖥️ Frontend / Full Stack - React, Next.js, Astro, Vite\
+⚙️ Backend - Hono, Express, GraphQL, WebSockets\
+🎨 UI & Styling - Tailwind CSS, shadcn/ui, Radix UI, MUI, component libraries\
+🗄️ Database - PostgreSQL, MongoDB, SQLite, Cloudflare D1\
+☁️ Storage - Azure Blob, AWS S3, Google Cloud, Cloudinary, ImageKit, Cloudflare KV\
+🚀 Development - Docker, Cloudflare, Vercel, AWS\
+🛠️ Tooling & DevOps - Git, GitHub, ESLint, Biome, Prettier, Vite, VoidZero tooling\
 
 ## 🧠 Approach
 
 I prefer official documentation over tutorials for deeper understanding. My workflow is simple: understand deeply, build clean systems, optimize performance, and ship production-ready code with long-term maintainability.
 
-  
-
 ## 🤝 Connect
 
 Open to collaboration on JavaScript ecosystem projects, especially in backend systems, developer tools, and infrastructure.
 
-⭐ "Build like a developer, think like an architect."
+⭐ "Build like a developer, th

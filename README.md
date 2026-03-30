@@ -18,7 +18,7 @@ I build full-stack web applications, developer tools, internal tools, and high-p
 🗄️ Database - PostgreSQL, MongoDB, SQLite, Cloudflare D1\
 ☁️ Storage - Azure Blob, AWS S3, Google Cloud, Cloudinary, ImageKit, Cloudflare KV\
 🚀 Development - Docker, Cloudflare, Vercel, AWS\
-🛠️ Tooling & DevOps - Git, GitHub, ESLint, Biome, Prettier, Vite, VoidZero tooling\
+🛠️ Tooling & DevOps - Git, GitHub, ESLint, Biome, Prettier, Vite, VoidZero tooling
 
 ## 🧠 Approach
 
@@ -28,4 +28,4 @@ I prefer official documentation over tutorials for deeper understanding. My work
 
 Open to collaboration on JavaScript ecosystem projects, especially in backend systems, developer tools, and infrastructure.
 
-⭐ "Build like a developer, th
+⭐ "Build like a developer, think like an architect."

@@ -4,22 +4,32 @@
 
 ## ⚡ Tech Stack
 
-I primarily work with **JavaScript (ESNext)** and **TypeScript**, with strong experience in the **Node.js ecosystem** and modern runtimes like **Bun**. On the backend, I build scalable APIs using **Hono**, **Express.js**, and **GraphQL**, including real-time systems with **WebSockets**. I design secure authentication systems using **BetterAuth** as well as fully custom auth solutions, and implement production-level features like rate limiting, request validation, caching, usage tracking, and performance optimization.
-
-On the frontend, I use **React**, **Next.js**, **Astro**, and **Vite**, along with **Tailwind CSS**, **shadcn/ui**, and modern UI libraries to build fast, clean, and scalable interfaces with a strong focus on performance and developer experience.
-
-I work with databases like **PostgreSQL**, **SQLite**, and **MongoDB**, and also use edge and serverless storage solutions such as **Cloudflare D1** and **Cloudflare KV**. For infrastructure and media handling, I use **Docker**, **Cloudflare Workers**, **AWS S3**, **ImageKit**, and **Cloudinary**.
+I work primarily with  **TypeScript (ESNext)**   and  **JavaScript**   in the **Node.js** ecosystem, using modern runtimes like **Bun**. I build scalable APIs, real-time systems, and fast frontends with modern UI libraries with a strong focus on performance, developer experience, and production-ready architecture. I also work with cloud, edge, and storage solutions to design complete end-to-end systems.
 
 ## 📦 What I Build
 
-I build full-stack web applications, internal tools, developer tools (like validators, plugins, and utilities), and high-performance backend systems. My focus is always on creating real-world, production-ready systems that are scalable, reliable, and optimized for long-term maintainability.
+I build full-stack web applications, developer tools, internal tools, and high-performance backend systems focused on scalability, reliability, and real-world usage.
+
+## 🐱‍💻 Stack Overview
+
+🖥️ Frontend / Full Stack - React, Next.js, Astro, Vite
+⚙️ Backend - Hono, Express, GraphQL, WebSockets
+🎨 UI & Styling - Tailwind CSS, shadcn/ui, Radix UI, MUI, component libraries
+🗄️ Database - PostgreSQL, MongoDB, SQLite, Cloudflare D1
+☁️ Storage - Azure Blob, AWS S3, Google Cloud, Cloudinary, ImageKit, Cloudflare KV
+🚀 Development - Docker, Cloudflare, Vercel, AWS
+🛠️ Tooling & DevOps - Git, GitHub, ESLint, Biome, Prettier, Vite, VoidZero tooling
+
+ 
 
 ## 🧠 Approach
 
-I prefer official documentation over tutorials because it provides deeper and more accurate understanding. My workflow is simple: understand deeply, build clean systems, optimize performance, and ship. I focus on writing maintainable code and thinking in terms of architecture rather than just features.
+I prefer official documentation over tutorials for deeper understanding. My workflow is simple: understand deeply, build clean systems, optimize performance, and ship production-ready code with long-term maintainability.
+
+  
 
 ## 🤝 Connect
 
-I’m open to collaborating on JavaScript ecosystem projects, especially in developer tooling, backend systems, and infrastructure.
+Open to collaboration on JavaScript ecosystem projects, especially in backend systems, developer tools, and infrastructure.
 
 ⭐ "Build like a developer, think like an architect."

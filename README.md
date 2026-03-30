@@ -1,53 +1,25 @@
 # 👋 Hey, I'm Gaurav Jatt
 
-🚀 JavaScript-first developer who builds fast, scalable, and production-ready apps.
-I don’t just code — I read docs, understand systems deeply, and then ship.
-
+🚀 JavaScript-first engineer focused on building fast, scalable, and production-grade systems. I don’t just write code — I read official documentation, understand systems deeply, and ship clean, efficient architecture.
 
 ## ⚡ Tech Stack
 
-### 🧠 Core
+I primarily work with **JavaScript (ESNext)** and **TypeScript**, with strong experience in the **Node.js ecosystem** and modern runtimes like **Bun**. On the backend, I build scalable APIs using **Hono**, **Express.js**, and **GraphQL**, including real-time systems with **WebSockets**. I design secure authentication systems using **BetterAuth** as well as fully custom auth solutions, and implement production-level features like rate limiting, request validation, caching, usage tracking, and performance optimization.
 
-**JavaScript** and **TypeScript** form the core of my development work, supported by deep experience in the **Node.js** ecosystem and modern runtimes like **Bun**, allowing me to build fast, efficient, and scalable applications.
+On the frontend, I use **React**, **Next.js**, **Astro**, and **Vite**, along with **Tailwind CSS**, **shadcn/ui**, and modern UI libraries to build fast, clean, and scalable interfaces with a strong focus on performance and developer experience.
 
-### 🌐 Backend
+I work with databases like **PostgreSQL**, **SQLite**, and **MongoDB**, and also use edge and serverless storage solutions such as **Cloudflare D1** and **Cloudflare KV**. For infrastructure and media handling, I use **Docker**, **Cloudflare Workers**, **AWS S3**, **ImageKit**, and **Cloudinary**.
 
-I build backend systems using **Hono** and **Express.js**,**GraphQL** focusing on clean and scalable **API** architectures. I also design and implement secure authentication systems using **BetterAuth** as well as fully **custom auth** solutions tailored to specific needs. I implement advanced backend features like **rate limiting**, **request validation**, **usage tracking**, and **performance optimization** to ensure systems are reliable, secure, and production-ready.
+## 📦 What I Build
 
-### 🎨 Frontend
+I build full-stack web applications, internal tools, developer tools (like validators, plugins, and utilities), and high-performance backend systems. My focus is always on creating real-world, production-ready systems that are scalable, reliable, and optimized for long-term maintainability.
 
-**React, Vite, Next.js, Astro,** and frontend libraries like **shadcn/ui,** **Tailwind CSS**   and other modern **UI libraries** are the core frontend technologies I use to build fast, modern, and scalable user interfaces.
+## 🧠 Approach
 
-### 🗄️ Databases
+I prefer official documentation over tutorials because it provides deeper and more accurate understanding. My workflow is simple: understand deeply, build clean systems, optimize performance, and ship. I focus on writing maintainable code and thinking in terms of architecture rather than just features.
 
-**PostgreSQL, SQLite, MongoDB, and SQL** are the databases and query languages I work with to design efficient, scalable, and reliable data systems.
+## 🤝 Connect
 
-### 🧩 Other Skills
+I’m open to collaborating on JavaScript ecosystem projects, especially in developer tooling, backend systems, and infrastructure.
 
-* Always exploring new tools and stacks in the JavaScript & TypeScript ecosystem.
-* Believe in learning through official docs and hands-on building.
-* Passionate about discovering new technologies and turning ideas into real projects.
-
----
-
-## 📦 What I Build & My Approach
-
-* **Full-stack web apps** that are scalable, efficient, and built for real-world use.
-* **Internal tools & APIs** designed to streamline workflows and improve productivity.
-* **Developer tools** such as validators, plugins, and utilities that enhance development experience.
-* **High-performance backend systems** focused on speed, reliability, and scalability.
-
-> Read docs → Understand deeply → Build clean → Optimize → Ship 🚀
-
-I prefer official **documentation** over tutorials, as it provides deeper understanding and accurate insights. I focus on building real-world, **production-ready** code that solves practical problems. Additionally, I prioritize **optimizing** applications for both performance and **maintainability** to ensure long-term scalability and efficiency.
-
----
-
-## 🤝 Let's Connect
-
-* Always open to collaboration on **JS ecosystem projects**
-* Especially interested in **tools, infra, and backend systems**
-
----
-
-⭐ *"Build like a developer, think like an architect."*
+⭐ "Build like a developer, think like an architect."

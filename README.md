@@ -1,17 +1,59 @@
-### 👋 Hey, I'm Gaurav Jatt
+<h1 align="center">Gaurav Jatt</h1>
+<h3 align="center">Full Stack JavaScript & TypeScript Engineer</h3>
 
-🚀 JavaScript-first engineer focused on building fast, scalable, and production-grade systems. I don’t just write code — I read official documentation, understand systems deeply, and ship clean, efficient architecture.
+<p align="center">
+Backend Systems • Authentication • Developer Tools • Open Source
+</p>
 
-### ⚡ Tech Stack & What I Build
+<p align="center">
+  <a href="https://instagram.com/devgauravjatt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/devgauravjatt" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@devgauravjatt" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://reddit.com/user/devgauravjatt" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://x.com/devgauravjatt" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:gauravjatt981@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-I work primarily with **TypeScript (ESNext)** and **JavaScript** in the **Node.js** ecosystem, using modern runtimes like **Bun**. I build scalable APIs, real-time systems, and fast frontends with modern UI libraries, focusing on performance, developer experience, and production-ready architecture. I also design complete end-to-end systems using cloud, edge, and storage solutions. My work includes full-stack web applications, developer tools, internal tools, and high-performance backend systems built for scalability, reliability, and real-world usage.
 
-### 🧠 Approach
+---
 
-I prefer official documentation over tutorials for deeper understanding. My workflow is simple: understand deeply, build clean systems, optimize performance, and ship production-ready code with long-term maintainability.
+## 🚀 Tech Stack
 
-### 🤝 Connect
+**Frontend:** React, Next.js, Astro, Vite, Tailwind CSS  
+**Backend:** Node.js, Express.js, Hono, REST APIs  
+**Auth:** Better Auth, OAuth, JWT, Sessions  
+**Database:** PostgreSQL, MongoDB, SQLite, Drizzle ORM  
+**Tools:** Bun, pnpm, Docker, Cloudflare, GitHub Actions
 
-Open to collaboration on JavaScript ecosystem projects, especially in backend systems, developer tools, and infrastructure.
+---
 
-⭐ "Build like a developer, think like an architect."
+## ⚡ Focus Areas
+
+I specialize in designing and scaling production-ready applications, with a core focus on implementing robust **Authentication Systems** and crafting high-performance **Backend API Architecture**. I build modern, **Type-safe Full Stack Apps** that minimize runtime errors, while optimizing development workflows through custom **CLI & Developer Tooling** and scalable **Monorepo Architectures**. Additionally, I focus on deploying efficient solutions across **Cloud & Edge Runtime Systems** to ensure minimal latency and global availability.
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=devgauravjatt&theme=dark" height="160" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=devgauravjatt&theme=dark" height="160" />
+</p>
+
+<p align="center">
+💻 Building modern web systems with TypeScript
+</p>

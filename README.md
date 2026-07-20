@@ -46,14 +46,6 @@ I specialize in designing and scaling production-ready applications, with a core
 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=devgauravjatt&theme=dark" height="160" />
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=devgauravjatt&theme=dark" height="160" />
-</p>
-
 <p align="center">
 💻 Building modern web systems with TypeScript
 </p>

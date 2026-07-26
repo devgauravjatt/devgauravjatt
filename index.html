@@ -1,0 +1,368 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Gaurav Jatt — Software Engineer portfolio, open-source projects, and selected repositories." />
+  <title>Gaurav Jatt — Portfolio</title>
+  <style>
+    :root {
+      --bg: #f4efe6;
+      --paper: #fffaf0;
+      --paper-2: #f7f1e8;
+      --ink: #1f1a17;
+      --muted: #6f655c;
+      --line: rgba(31, 26, 23, 0.12);
+      --accent: #6a4c93;
+      --accent-2: #a46b4f;
+      --shadow: 0 18px 50px rgba(31, 26, 23, 0.12);
+      --radius: 26px;
+      --max: 1120px;
+    }
+
+```
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background:
+    radial-gradient(circle at top left, rgba(255,255,255,0.75), transparent 30%),
+    radial-gradient(circle at bottom right, rgba(164,107,79,0.08), transparent 35%),
+    var(--bg);
+  color: var(--ink);
+  font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+  line-height: 1.6;
+}
+
+a { color: inherit; text-decoration: none; }
+
+.page {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 28px 18px 64px;
+}
+
+.paper {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,0.55), rgba(255,255,255,0.18)),
+    repeating-linear-gradient(
+      180deg,
+      rgba(31, 26, 23, 0.02) 0px,
+      rgba(31, 26, 23, 0.02) 1px,
+      transparent 1px,
+      transparent 34px
+    ),
+    var(--paper);
+  border: 1px solid rgba(31, 26, 23, 0.08);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  position: relative;
+}
+
+.paper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, transparent 0 56px, rgba(164,107,79,0.06) 56px 58px, transparent 58px 100%);
+  pointer-events: none;
+}
+
+header {
+  padding: 34px 30px 22px;
+  display: grid;
+  gap: 18px;
+  position: relative;
+  z-index: 1;
+}
+
+.topline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.stamp {
+  border: 1px dashed rgba(31,26,23,0.25);
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.55);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2.6rem, 6vw, 5.4rem);
+  line-height: 0.96;
+  letter-spacing: -0.05em;
+}
+
+.intro {
+  max-width: 760px;
+  font-size: clamp(1.02rem, 2vw, 1.18rem);
+  color: var(--muted);
+  margin: 0;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.chip {
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(31,26,23,0.1);
+  background: rgba(255,255,255,0.55);
+  font-size: 0.95rem;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 18px;
+  padding: 0 18px 18px;
+  position: relative;
+  z-index: 1;
+}
+
+section {
+  background: rgba(255,255,255,0.42);
+  border: 1px solid rgba(31,26,23,0.08);
+  border-radius: 22px;
+  padding: 22px;
+  backdrop-filter: blur(4px);
+}
+
+h2 {
+  margin: 0 0 14px;
+  font-size: 1.35rem;
+  letter-spacing: -0.03em;
+}
+
+.grid {
+  display: grid;
+  gap: 14px;
+}
+
+.project {
+  border: 1px solid rgba(31,26,23,0.1);
+  border-radius: 18px;
+  padding: 18px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.7), rgba(255,255,255,0.4));
+}
+
+.project h3 {
+  margin: 0 0 6px;
+  font-size: 1.1rem;
+}
+
+.project p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.meta {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: var(--accent);
+}
+
+.meta span {
+  border: 1px solid rgba(106,76,147,0.18);
+  background: rgba(106,76,147,0.06);
+  padding: 6px 10px;
+  border-radius: 999px;
+}
+
+.bio-list {
+  display: grid;
+  gap: 12px;
+}
+
+.bio-item {
+  padding: 14px 16px;
+  border-left: 4px solid var(--accent-2);
+  background: rgba(255,255,255,0.55);
+  border-radius: 0 16px 16px 0;
+}
+
+.bio-item strong {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.contact {
+  display: grid;
+  gap: 12px;
+}
+
+.contact a {
+  display: block;
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 1px solid rgba(31,26,23,0.1);
+  background: rgba(255,255,255,0.6);
+}
+
+footer {
+  padding: 0 30px 28px;
+  color: var(--muted);
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 920px) {
+  main { grid-template-columns: 1fr; }
+  header, footer { padding-left: 20px; padding-right: 20px; }
+}
+```
+
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="paper">
+      <header>
+        <div class="topline">
+          <div class="stamp">Portfolio / Open Source / Software Engineer</div>
+          <div>GitHub: @devgauravjatt</div>
+        </div>
+
+```
+    <div>
+      <h1>Gaurav Jatt</h1>
+      <p class="intro">
+        I build fast web apps, starter kits, and full-stack systems with a focus on clean UX,
+        practical architecture, and developer-friendly tooling.
+      </p>
+    </div>
+
+    <div class="chips">
+      <div class="chip">TypeScript</div>
+      <div class="chip">Astro</div>
+      <div class="chip">Hono</div>
+      <div class="chip">Better Auth</div>
+      <div class="chip">Drizzle ORM</div>
+      <div class="chip">Node.js</div>
+      <div class="chip">Open Source</div>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Selected Projects</h2>
+      <div class="grid">
+        <article class="project">
+          <h3>better-auth-astro5</h3>
+          <p>
+            Authentication-focused Astro app with Better Auth and Drizzle ORM, covering sign-up,
+            sign-in, session handling, and user profile flow.
+          </p>
+          <div class="meta">
+            <span>Astro</span><span>Better Auth</span><span>Drizzle ORM</span><span>SQLite</span>
+          </div>
+        </article>
+
+        <article class="project">
+          <h3>astro5-server-todo-app</h3>
+          <p>
+            A simple server-rendered Todo app built with Astro, Better Auth, and Drizzle ORM,
+            designed as a practical starter project.
+          </p>
+          <div class="meta">
+            <span>SSR</span><span>Auth</span><span>Neon</span><span>TypeScript</span>
+          </div>
+        </article>
+
+        <article class="project">
+          <h3>hono-rpc-starter</h3>
+          <p>
+            A TypeScript starter for building server-client apps with Hono RPC and a compact API-first structure.
+          </p>
+          <div class="meta">
+            <span>Hono</span><span>RPC</span><span>API</span><span>TypeScript</span>
+          </div>
+        </article>
+
+        <article class="project">
+          <h3>More work</h3>
+          <p>
+            I also like building reusable tools, engineering foundations, and developer workflows that
+            make projects easier to scale and maintain.
+          </p>
+          <div class="meta">
+            <span>Starter Kits</span><span>Tooling</span><span>Performance</span><span>DX</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>Bio</h2>
+      <div class="bio-list">
+        <div class="bio-item">
+          <strong>Software Engineer</strong>
+          Focused on modern web development, backend APIs, and developer experience.
+        </div>
+        <div class="bio-item">
+          <strong>Full-stack builder</strong>
+          Comfortable across frontend, backend, auth, database design, and deployment.
+        </div>
+        <div class="bio-item">
+          <strong>Open-source mindset</strong>
+          I like creating templates and starter repos that are easy to reuse.
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <div class="contact">
+        <a href="https://github.com/devgauravjatt" target="_blank" rel="noreferrer">GitHub Profile</a>
+        <a href="mailto:devgauravjatt@gmail.com">devgauravjatt@gmail.com</a>
+        <a href="#" onclick="return false;">Portfolio / Resume / Social links</a>
+      </div>
+    </section>
+
+    <section>
+      <h2>Now</h2>
+      <div class="bio-list">
+        <div class="bio-item">
+          <strong>Building</strong>
+          Web apps and reusable starter projects.
+        </div>
+        <div class="bio-item">
+          <strong>Style</strong>
+          Minimal, practical, and paper-like UI.
+        </div>
+        <div class="bio-item">
+          <strong>Goal</strong>
+          Make my portfolio feel memorable, clear, and developer-focused.
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Built for GitHub Pages or any static host. Replace the placeholder contact links with your real social URLs.
+  </footer>
+</div>
+```
+
+  </div>
+</body>
+</html>
